@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghj7yoPnsXAbsoxXoL8YKqqxSZuF+pcTg+9YS52PAcEstrif8b4dBqbYJzYTxfW6Gc/wC5UR09CepppLojINCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\CobroServicioUF\\CobroServicioUF\\CobroServicioUF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
